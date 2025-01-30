@@ -4,9 +4,13 @@ Este proyecto permite acceder y analizar anuncios en **Facebook Ads Library** me
 
 ## 🚀 Características principales
 ✅ **Consulta automática de anuncios** en la Biblioteca de Anuncios de Facebook.
+
 ✅ **Soporte para búsqueda por palabra clave y país** (`ads_archive`).
+
 ✅ **Almacenamiento de resultados en CSV** para análisis posterior.
+
 ✅ **Uso de tokens de autenticación** para acceder a la API.
+
 ✅ **Código modular** para futuras ampliaciones o integración con otros proyectos.
 
 ## 📜 Política de Privacidad
